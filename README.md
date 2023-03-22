@@ -1,1 +1,0 @@
-# Assignment2-lift-off-C
